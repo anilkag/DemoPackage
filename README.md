@@ -1,3 +1,3 @@
 #Registration Package
 
-## This is used ffor store user in DB
+## This is used for store user in DB
