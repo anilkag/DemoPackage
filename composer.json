@@ -14,5 +14,12 @@
         "psr-4": {
             "Dexbytes\\Registration\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dexbytes\\Registration\\RegistrationServiceProvier"
+            ]
+        }
     }
 }
